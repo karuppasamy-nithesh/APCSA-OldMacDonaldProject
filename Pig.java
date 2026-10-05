@@ -1,4 +1,4 @@
-Public class Pig extends Animal {
+Public class Pig implements Animal {
     
 
 

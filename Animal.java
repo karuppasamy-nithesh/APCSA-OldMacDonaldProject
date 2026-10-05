@@ -1,19 +1,15 @@
-public class Animal {
-   private String type;
-   private String sound;
+public interface Animal {
+   
 
-   public Animal (String type, String sound){
-      this.type = type;
-      this.sound = sound; 
-   }
+   
 
-  public void getSound(){ 
+  public String getSound();
      
-  }  
+  
 
-  public void getType(){
+  public String getType();
 
-  }
+  
    
 
 
