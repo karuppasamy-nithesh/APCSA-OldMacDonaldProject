@@ -1,4 +1,13 @@
-Public class Cow implements Animal {
+/* 
+* Cow
+ * Nithesh Karuppasamy
+ * creates a constructor and two get methods for the cow class
+ *
+ * Resources: Mrs. Ramsey Rultledge and code.org
+ *
+ */
+
+public class Cow implements Animal {
     private String type;
     private String sound;
    public Cow (String type, String sound) {
